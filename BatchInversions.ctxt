@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=BatchInversions
+comment0.text=\r\n\ let\ user\ select\ multiple\ images\ and\ apply\ inversion\ filter\ to\ each\ of\ these\ images\r\n\ rename\ the\ newly\ created\ images\ as\ "inverted-"\ +\ <original-file-name>\r\n\ @Xiangzhen\ Sun\ \r\n\ @12/24/2017\r\n
+comment1.params=inImage
+comment1.target=edu.duke.ImageResource\ makeInversion(edu.duke.ImageResource)
+comment2.params=
+comment2.target=void\ selectAndConvert()
+numComments=3

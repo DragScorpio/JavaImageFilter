@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=BatchGrayScale
+comment0.text=\r\n\ let\ user\ select\ multiple\ image\ files,\ convert\ these\ image\ to\ grayscale,\r\n\ and\ save\ the\ grayscale\ with\ "gray-"\ +\ <original-file-name>\r\n\ @Xiangzhen\ Sun\ \r\n\ @12/24/2017\r\n
+comment1.params=inImage
+comment1.target=edu.duke.ImageResource\ grayScale(edu.duke.ImageResource)
+comment2.params=
+comment2.target=void\ batchProcessImages()
+numComments=3
